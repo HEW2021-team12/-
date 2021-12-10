@@ -1,0 +1,29 @@
+﻿  collision.cpp
+  enemy.cpp
+C:\Users\TakNa\HEW2021\新マップ案\map実装用\MAP4\map.h(43,1): warning C5208: typedef 名で使用されている名前のないクラスでは、静的でないデータ メンバー、メンバーの列挙値、メンバー クラス以外のメンバーを宣言できません
+  fade.cpp
+  game.cpp
+C:\Users\TakNa\HEW2021\新マップ案\map実装用\MAP4\map.h(43,1): warning C5208: typedef 名で使用されている名前のないクラスでは、静的でないデータ メンバー、メンバーの列挙値、メンバー クラス以外のメンバーを宣言できません
+  game_over.cpp
+  gas_gauge.cpp
+  input.cpp
+  keyboard.cpp
+  Keylogger.cpp
+  main.cpp
+  map.cpp
+C:\Users\TakNa\HEW2021\新マップ案\map実装用\MAP4\map.h(43,1): warning C5208: typedef 名で使用されている名前のないクラスでは、静的でないデータ メンバー、メンバーの列挙値、メンバー クラス以外のメンバーを宣言できません
+  player.cpp
+C:\Users\TakNa\HEW2021\新マップ案\map実装用\MAP4\map.h(43,1): warning C5208: typedef 名で使用されている名前のないクラスでは、静的でないデータ メンバー、メンバーの列挙値、メンバー クラス以外のメンバーを宣言できません
+  renderer.cpp
+  result.cpp
+  scene.cpp
+  select_scene.cpp
+  sound.cpp
+  sprite.cpp
+  Texture.cpp
+  timer.cpp
+  コードを生成中...
+  コンパイル中...
+  title.cpp
+  コードを生成中...
+  sample.vcxproj -> C:\Users\TakNa\HEW2021\新マップ案\map実装用\MAP4\Debug\sample.exe

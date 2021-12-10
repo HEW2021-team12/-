@@ -1,0 +1,2 @@
+C:\Users\TakNa\HEW2021\新マップ案\map実装用\MAP4\Debug\sample.exe
+C:\Users\TakNa\HEW2021\新マップ案\map実装用\MAP4\Debug\sample.pdb
